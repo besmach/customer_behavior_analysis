@@ -59,7 +59,7 @@ The dataset was first loaded and analyzed in Python before being cleaned and pre
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-
+|------|---------|
 | **Python** | Data loading, cleaning and EDA |
 | **Pandas** | Data manipulation and analysis |
 | **NumPy** | Numerical operations |
@@ -69,9 +69,7 @@ The dataset was first loaded and analyzed in Python before being cleaned and pre
 | **Jupyter Notebook** | Python analysis |
 | **PowerPoint** | Project presentation |
 
----
-
-##🔄 Project Workflow
+**🔄 Project Workflow**
 
 The project follows an end-to-end analytics workflow:
 
